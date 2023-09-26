@@ -1,7 +1,10 @@
-![MasterHead](https://criticalhits.com.br/wp-content/uploads/2021/01/sukuna-1.jpg)
+![jujutsu-kaisen-sukuna-anime-pfp-xrd1ai4y2jwdni4r](https://github.com/PederExMw/PederExMw/assets/127876259/b00e2334-78da-46a6-8bf5-9fb19a18483e)
+
+
 <h1 align="center">Hi , I'm Yasin Uğur</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
+![MasterHead](https://criticalhits.com.br/wp-content/uploads/2021/01/sukuna-1.jpg)
 - 🔭 I’m currently working on **React**
 
 - 📫 How to reach me **yasinugurakyol@gmail.com**
