@@ -1,4 +1,4 @@
-[![MasterHead](https://criticalhits.com.br/wp-content/uploads/2021/01/sukuna-1.jpg)
+![MasterHead](https://criticalhits.com.br/wp-content/uploads/2021/01/sukuna-1.jpg)
 <h1 align="center">Hi , I'm Yasin Uğur</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
