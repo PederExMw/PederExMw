@@ -1,4 +1,4 @@
-![MasterHead]([https://criticalhits.com.br/wp-content/uploads/2021/01/sukuna-1.jpg](https://gifdb.com/images/high/jujutsu-kaisen-sukuna-anime-pfp-xrd1ai4y2jwdni4r.gif))
+![MasterHead](https://gifdb.com/images/high/jujutsu-kaisen-sukuna-anime-pfp-xrd1ai4y2jwdni4r.gif)
 <h1 align="center">Hi , I'm Yasin Uğur</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
